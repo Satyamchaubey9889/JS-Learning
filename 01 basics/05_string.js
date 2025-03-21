@@ -34,7 +34,7 @@ console.log(gameName.__proto__);
 
 // console.log(gameName.split('-'));
 
-const str="THank You";
+const str="Thank You";
 //console.log(str.toLowerCase());
 
 // console.log(str.toLocaleUpperCase());
